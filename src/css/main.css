@@ -1,7 +1,7 @@
 /* Your CSS here. */
 .card {
-    width: 550px;
-    height: 450px;
+    width: 500px;
+    height: 400px;
     margin: 40px auto;
     padding: 40px;
     text-align: center;
@@ -11,8 +11,8 @@
 }
 
 .card img {
-    width: 200px;
-    height: 210px;
+    width: 150px;
+    height: 150px;
 }
 
 .card h1 {
